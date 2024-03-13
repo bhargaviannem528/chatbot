@@ -1,0 +1,8 @@
+nltk
+scikit-learn
+Flask
+numpy
+sklearn
+random
+seaborn
+pandas
